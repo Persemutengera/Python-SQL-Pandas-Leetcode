@@ -1,3 +1,3 @@
-## PYTHON SQL AND PANDAS CODE
+## SQL-DATA-ANAYLSIS
 
-This is a repository containing short code for learning python programming problem's solving methods
+This is a repository containing short code for learning Data analysis problem's solving methods
